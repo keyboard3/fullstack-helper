@@ -1,0 +1,13 @@
+{
+  "name": "fullstack-helper",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "dev":"npx tsc -w"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
